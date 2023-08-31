@@ -10,6 +10,12 @@ Goa has a clean and clear beach .It is a public tourist spot in India.Goa is a s
 2.I saw different kind of fishes in under water   
 3.I ride waterbiking 
 
+*Chicken Biryani 
+*Chicken Tikka
+*FishFry
+*Prawns fry
+
+
 
 
 
