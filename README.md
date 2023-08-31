@@ -14,6 +14,8 @@ Goa has a clean and clear beach .It is a public tourist spot in India.Goa is a s
 * Chicken Tikka
 * FishFry
 * Prawns fry 
+[Myprofilelink](MyStats.md)
+
 
 
 
