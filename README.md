@@ -1,5 +1,4 @@
 # MY2-GHANTA
-lab2
 # Bhuvaneswaridevi Ghanta
 ###### Goa
  
@@ -15,6 +14,8 @@ Goa has a clean and clear beach .It is a public tourist spot in India.Goa is a s
 * FishFry
 * Prawns fry <br><br>
 [Myprofilelink](MyStats.md)
+******
+
 
 
 
