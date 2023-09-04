@@ -20,13 +20,10 @@ In this section i am going to create a table with at least 4 kinds of sports tha
 | Sport | Reason for Recommend | Hours in an Average week |
 |-----|-----|-----:|
 | Swimming | Swimming is a Great stress reducer | 7 Hours |
-|-----|-----|-----:|
 | Tennis | Tennis is a good sport for Maintaining FItness | 10 Hours |
-|-----|-----|-----:|
 | Badmiminton |Badminton can help strengthen | 7 Hours |
-|-----|-----|-----:|
 | Cycling | Cycling reduces blood fat levels | 5 Hours |
-|-----|-----|-----:|
+
 
 
 
