@@ -24,9 +24,9 @@ In this section i am going to create a table with at least 4 kinds of sports tha
 | Badmiminton |Badminton can help strengthen | 7 Hours |
 | Cycling | Cycling reduces blood fat levels | 5 Hours |
 ******
-* My Favorite Scientist Quotes
-1."The important thing is not to stop questioning." - Albert Einstein
-2."The best way to predict the future is to create it." - Peter Drucker
+# My Favorite Scientist Quotes
+1 "The important thing is not to stop questioning." - Albert Einstein
+2 "The best way to predict the future is to create it." - Peter Drucker
 
 
 
