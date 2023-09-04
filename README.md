@@ -15,7 +15,18 @@ Goa has a clean and clear beach .It is a public tourist spot in India.Goa is a s
 * Prawns fry <br><br>
 [Myprofilelink](MyStats.md)
 ******
+In this section i am going to create a table with at least 4 kinds of sports that i would recommend someone try.Below table each sport explaning about worth of the sport and spending time.
 
+| Sport    |  | Reason for Recommend      |         | Hours in an Average week |
+ ________       _____________________                ___________________________
+
+| Swimming |  | Swimming is a Great stress reducer |         | 7 Hours                  |
+
+| Tennis   |  | Tennis is a good sport for Maintaining FItness | | 10 Hours |
+
+| Badmiminton | |Badminton can help strengthen | | 7 Hours |
+
+| Cycling  | | Cycling reduces blood fat levels | | 5 Hours |
 
 
 
