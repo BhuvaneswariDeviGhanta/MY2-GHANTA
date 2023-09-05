@@ -32,7 +32,7 @@ In this section i am going to create a table with at least 4 kinds of sports tha
 # Coding Fencing
 
 > How to set expires to date in past - htacess
-[Stackover flow](https://stackoverflow.com/questions/4855571/htaccess-how-to-set-expires-to-date-in-past)
+[Question in Stackover flow](https://stackoverflow.com/questions/4855571/htaccess-how-to-set-expires-to-date-in-past)
 ```
 <FilesMatch "\.(html|htm)$">
 FileETag None
