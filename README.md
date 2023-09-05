@@ -28,6 +28,23 @@ In this section i am going to create a table with at least 4 kinds of sports tha
 > The important thing is not to stop questioning - *Albert Einstein*
 >
 > The best way to predict the future is to create it - *Peter Drucker*
+******
+# Coding Fencing
+
+> How to set expires to date in past - htacess
+[Stackover flow](https://stackoverflow.com/questions/4855571/htaccess-how-to-set-expires-to-date-in-past)
+```
+<FilesMatch "\.(html|htm)$">
+FileETag None
+Header unset ETag
+Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Expires "Thu, 01 Jan 1970 00:00:00 GMT"
+</FilesMatch>
+
+```
+[Code snippet](https://css-tricks.com/snippets/htaccess/set-expires/)
+
 
 
 
