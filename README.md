@@ -31,7 +31,7 @@ In this section i am going to create a table with at least 4 kinds of sports tha
 ******
 # Coding Fencing
 
-> How to set expires to date in past - htacess <br>
+ How to set expires to date in past - htacess <br>
 [Question in Stackover flow](https://stackoverflow.com/questions/4855571/htaccess-how-to-set-expires-to-date-in-past)
 ```
 <FilesMatch "\.(html|htm)$">
